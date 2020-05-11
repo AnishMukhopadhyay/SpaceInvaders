@@ -1,4 +1,3 @@
-
 # Space Ivaders
 # Game
 # First try
